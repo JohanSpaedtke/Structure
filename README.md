@@ -50,6 +50,7 @@ Structured Text
   * http://ogdl.org/
 * SDLang
   * http://sdlang.org/
+  * https://github.com/ikayzo/SDL
 * StrictYAML
   * https://github.com/crdoconnor/strictyaml
 * TOML
