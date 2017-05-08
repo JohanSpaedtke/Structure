@@ -21,7 +21,27 @@ Structured Text
 * HDF
   * http://www.clearsilver.net/docs/man_hdf.hdf
 * JSON 
+  * https://tools.ietf.org/html/rfc7159
+  * https://jsonp.java.net/
   * https://github.com/FasterXML/jackson
+  * https://github.com/google/gson
+  * https://github.com/stleary/JSON-java
+  * https://github.com/billdavidson/JSONUtil
+  * https://java.net/projects/jsonp/sources/git/show
+  * https://svn.code.sf.net/p/argo/code/tags/4.4/
+  * https://bitbucket.org/jmarsden/jsonij/src
+  * https://github.com/alibaba/fastjson
+  * https://github.com/bolerio/mjson
+  * https://github.com/grobmeier/jjson
+  * https://github.com/fangyidong/json-simple
+  * https://github.com/jdereg/json-io
+  * https://code.google.com/archive/p/jsonmarshaller/source/default/source
+  * https://code.google.com/archive/p/json-smart/source/default/source
+  * https://github.com/fossnova/json
+  * https://git-wip-us.apache.org/repos/asf?p=johnzon.git
+  * https://github.com/owlike/genson
+  * https://github.com/billdavidson/JSONUtil
+  * https://github.com/coconut2015/cookjson
 * JSON5
   * http://json5.org/
 * JsonML
