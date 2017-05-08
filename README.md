@@ -45,7 +45,7 @@ Structured Text
 * JSON5
   * http://json5.org/
 * JsonML
-  * https://en.wikipedia.org/wiki/JsonML
+  * https://github.com/stleary/JSON-java/blob/master/JSONML.java
 * OGDL
   * http://ogdl.org/
 * SDLang
