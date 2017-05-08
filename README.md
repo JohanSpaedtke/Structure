@@ -1,6 +1,6 @@
 Structured Text 
 * Axon
-	* https://intellimath.bitbucket.io/axon/
+  * https://intellimath.bitbucket.io/axon/
 * DSV (CSV/TSV etc.)
   * https://tools.ietf.org/html/rfc4180
   * https://github.com/FasterXML/jackson-dataformats-text/tree/master/csv
@@ -55,6 +55,12 @@ Structured Text
   * https://github.com/crdoconnor/strictyaml
 * TOML
   * https://github.com/toml-lang/toml
+  * https://github.com/mwanji/toml4j
+  * https://github.com/asafh/jtoml
+  * https://github.com/TheElectronWill/TOML-javalib
+  * https://github.com/mschuetz/toml
+  * https://github.com/johnlcox/toml4j
+  * https://github.com/agrison/jtoml
 * XML 
   * https://github.com/FasterXML/jackson-dataformat-xml
 * YAML 
