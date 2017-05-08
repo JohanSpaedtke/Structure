@@ -65,6 +65,9 @@ Structured Text
   * https://github.com/FasterXML/jackson-dataformat-xml
 * YAML 
   * https://github.com/FasterXML/jackson-dataformats-text/tree/master/yaml
+  * https://code.google.com/archive/p/yamlbeans/source/default/source
+  * https://bitbucket.org/asomov/snakeyaml/src
+  * http://jyaml.cvs.sourceforge.net/viewvc/jyaml/
   
 Config
 * INI
