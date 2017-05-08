@@ -1,8 +1,23 @@
 Structured Text 
 * Axon
-  * https://intellimath.bitbucket.io/axon/
+	* https://intellimath.bitbucket.io/axon/
 * DSV (CSV/TSV etc.)
-  * https://github.com/FasterXML/jackson-dataformats-text/tree/master/csv
+  * https://tools.ietf.org/html/rfc4180
+	* https://github.com/FasterXML/jackson-dataformats-text/tree/master/csv
+	*	https://commons.apache.org/proper/commons-csv/
+  * http://opencsv.sourceforge.net/
+  * http://super-csv.github.io/super-csv/index.html
+  * https://github.com/appendium/flatpack
+  * http://javacsv.cvs.sourceforge.net/viewvc/javacsv/javacsv/
+  * http://qn-csv.cvs.sourceforge.net/viewvc/qn-csv/src/
+  * http://wush.net/svn/mindprod/com/mindprod/csv/
+  * http://csvfile.cvs.sourceforge.net/viewvc/csvfile/csvfile/
+  * http://ostermiller.org/utils/CSV.html
+  * http://flattree.sourceforge.net/
+  * https://github.com/technicalguru/csv/tree/master
+  * http://jsapar.tigris.org/servlets/ProjectDocumentList
+  * https://github.com/uniVocity/univocity-parsers
+  * http://csvjdbc.sourceforge.net/
 * HDF
   * http://www.clearsilver.net/docs/man_hdf.hdf
 * JSON 
