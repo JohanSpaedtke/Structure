@@ -3,8 +3,8 @@ Structured Text
 	* https://intellimath.bitbucket.io/axon/
 * DSV (CSV/TSV etc.)
   * https://tools.ietf.org/html/rfc4180
-	* https://github.com/FasterXML/jackson-dataformats-text/tree/master/csv
-	*	https://commons.apache.org/proper/commons-csv/
+  * https://github.com/FasterXML/jackson-dataformats-text/tree/master/csv
+  * https://commons.apache.org/proper/commons-csv/
   * http://opencsv.sourceforge.net/
   * http://super-csv.github.io/super-csv/index.html
   * https://github.com/appendium/flatpack
