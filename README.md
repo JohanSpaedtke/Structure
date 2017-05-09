@@ -20,6 +20,15 @@ Structured Text
   * http://csvjdbc.sourceforge.net/
 * HDF
   * http://www.clearsilver.net/docs/man_hdf.hdf
+* INI
+  * http://ini4j.sourceforge.net/
+  * https://commons.apache.org/proper/commons-configuration
+* Java Properties
+  * https://docs.oracle.com/javase/7/docs/api/java/util/Properties.html
+  * https://commons.apache.org/proper/commons-configuration
+  * https://github.com/FasterXML/jackson-dataformats-text/tree/master/properties
+* JNDI
+  * https://commons.apache.org/proper/commons-configuration
 * JSON 
   * https://tools.ietf.org/html/rfc7159
   * https://jsonp.java.net/
@@ -48,6 +57,8 @@ Structured Text
   * https://github.com/stleary/JSON-java/blob/master/JSONML.java
 * OGDL
   * http://ogdl.org/
+* p-list
+  * https://commons.apache.org/proper/commons-configuration
 * SDLang
   * http://sdlang.org/
   * https://github.com/ikayzo/SDL
@@ -63,18 +74,13 @@ Structured Text
   * https://github.com/agrison/jtoml
 * XML 
   * https://github.com/FasterXML/jackson-dataformat-xml
+  * https://commons.apache.org/proper/commons-configuration
 * YAML 
   * https://github.com/FasterXML/jackson-dataformats-text/tree/master/yaml
   * https://code.google.com/archive/p/yamlbeans/source/default/source
   * https://bitbucket.org/asomov/snakeyaml/src
   * http://jyaml.cvs.sourceforge.net/viewvc/jyaml/
   
-Config
-* INI
-  * http://ini4j.sourceforge.net/
-* Java Properties
-  * https://github.com/FasterXML/jackson-dataformats-text/tree/master/properties
-
 Documentation
 * AmigaGuide
   * https://en.wikipedia.org/wiki/AmigaGuide
