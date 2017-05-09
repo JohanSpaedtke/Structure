@@ -88,6 +88,8 @@ Structured Text
 Documentation
 * AmigaGuide
   * https://en.wikipedia.org/wiki/AmigaGuide
+  * http://home1.swipnet.se/~w-10967/Projex/Jaguar/
+  * http://grotag.sourceforge.net/user-guide.html
 * AsciiDoc
   * https://en.wikipedia.org/wiki/AsciiDoc
 * BBCode
