@@ -59,6 +59,9 @@ Structured Text
   * http://ogdl.org/
 * p-list
   * https://commons.apache.org/proper/commons-configuration
+  * https://github.com/3breadt/dd-plist
+  * http://jplist.sourceforge.net/
+  * https://code.google.com/archive/p/xmlwise/
 * SDLang
   * http://sdlang.org/
   * https://github.com/ikayzo/SDL
@@ -75,6 +78,7 @@ Structured Text
 * XML 
   * https://github.com/FasterXML/jackson-dataformat-xml
   * https://commons.apache.org/proper/commons-configuration
+  * https://code.google.com/archive/p/xmlwise/
 * YAML 
   * https://github.com/FasterXML/jackson-dataformats-text/tree/master/yaml
   * https://code.google.com/archive/p/yamlbeans/source/default/source
