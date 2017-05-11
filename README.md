@@ -20,6 +20,8 @@ Structured Text
   * http://csvjdbc.sourceforge.net/
 * HDF
   * http://www.clearsilver.net/docs/man_hdf.hdf
+* HOCON
+  * https://github.com/typesafehub/config/blob/master/HOCON.md#note-on-java-properties-similarity
 * INI
   * http://ini4j.sourceforge.net/
   * https://commons.apache.org/proper/commons-configuration
