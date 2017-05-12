@@ -20,6 +20,7 @@ Structured Text
   * http://csvjdbc.sourceforge.net/
 * edn
   * https://github.com/edn-format/edn
+  * https://github.com/bpsm/edn-java
 * HCL
   * https://github.com/hashicorp/hcl/blob/master/README.md
 * HDF
