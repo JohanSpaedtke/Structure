@@ -18,8 +18,14 @@ Structured Text
   * http://jsapar.tigris.org/servlets/ProjectDocumentList
   * https://github.com/uniVocity/univocity-parsers
   * http://csvjdbc.sourceforge.net/
+* edn
+  * https://github.com/edn-format/edn
+* HCL
+  * https://github.com/hashicorp/hcl/blob/master/README.md
 * HDF
   * http://www.clearsilver.net/docs/man_hdf.hdf
+* HJSON
+  * http://hjson.org/
 * HOCON
   * https://github.com/typesafehub/config/blob/master/HOCON.md#note-on-java-properties-similarity
 * INI
@@ -64,6 +70,10 @@ Structured Text
   * https://github.com/3breadt/dd-plist
   * http://jplist.sourceforge.net/
   * https://code.google.com/archive/p/xmlwise/
+* S-expressions
+  * https://github.com/julianmendez/jsexp
+  * https://github.com/jsinglet/s-expressions-in-java-annotations
+  * https://jena.apache.org/documentation/notes/sse.html
 * SDLang
   * http://sdlang.org/
   * https://github.com/ikayzo/SDL
@@ -123,6 +133,9 @@ Documentation
   
 Binary formats
 	https://github.com/FasterXML/jackson-dataformats-binary
+
+Random links
+https://blog.ometer.com/2015/09/07/json-like-config-a-spectrum-of-underoverengineering/
 
 Plaintext
 https://github.com/jakwings/TextOfDatabase/blob/master/README.md
