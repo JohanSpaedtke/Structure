@@ -181,15 +181,5 @@ https://en.wikipedia.org/wiki/Personal_information_manager 	•	Personal file 
 * Alerts
 * References (including scientific references, websites of interest)
 
-Other
-* Atom – (.atom, .xml) – Another syndication format
-* EML – (.eml) – Format used by several desktop email clients
-* JSON-LD – (.jsonld) – A JSON-based Serialization for Linked Data
-* Metalink – (.metalink, .met) – A format to list metadata about downloads, such as mirrors, checksums, and other information.
-* RSS – (.rss, .xml) – Syndication format
-* diff – text file differences created by the program diff and applied as updates by patch
-* configuration file (.cnf, .conf, .cfg) – substantially software-specific
-* logfiles (.log) – usually text, but sometimes binary
-* plain text (.asc or .txt) – human-readable plain text, usually no more specific
 https://en.wikipedia.org/wiki/Prolog
 https://support.hdfgroup.org/HDF5/
