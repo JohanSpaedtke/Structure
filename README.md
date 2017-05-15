@@ -135,6 +135,10 @@ Documentation
 Binary formats
 	https://github.com/FasterXML/jackson-dataformats-binary
 
+EPG
+  * TVAnytime
+  * XMLTV
+  
 Random links
 https://blog.ometer.com/2015/09/07/json-like-config-a-spectrum-of-underoverengineering/
 
